@@ -1,0 +1,13 @@
+C:\Users\mv91493\source\repos\LetterSoup\LetterSoup\bin\Debug\netcoreapp3.1\LetterSoup.exe
+C:\Users\mv91493\source\repos\LetterSoup\LetterSoup\bin\Debug\netcoreapp3.1\LetterSoup.deps.json
+C:\Users\mv91493\source\repos\LetterSoup\LetterSoup\bin\Debug\netcoreapp3.1\LetterSoup.runtimeconfig.json
+C:\Users\mv91493\source\repos\LetterSoup\LetterSoup\bin\Debug\netcoreapp3.1\LetterSoup.runtimeconfig.dev.json
+C:\Users\mv91493\source\repos\LetterSoup\LetterSoup\bin\Debug\netcoreapp3.1\LetterSoup.dll
+C:\Users\mv91493\source\repos\LetterSoup\LetterSoup\bin\Debug\netcoreapp3.1\LetterSoup.pdb
+C:\Users\mv91493\source\repos\LetterSoup\LetterSoup\obj\Debug\netcoreapp3.1\LetterSoup.csprojAssemblyReference.cache
+C:\Users\mv91493\source\repos\LetterSoup\LetterSoup\obj\Debug\netcoreapp3.1\LetterSoup.AssemblyInfoInputs.cache
+C:\Users\mv91493\source\repos\LetterSoup\LetterSoup\obj\Debug\netcoreapp3.1\LetterSoup.AssemblyInfo.cs
+C:\Users\mv91493\source\repos\LetterSoup\LetterSoup\obj\Debug\netcoreapp3.1\LetterSoup.csproj.CoreCompileInputs.cache
+C:\Users\mv91493\source\repos\LetterSoup\LetterSoup\obj\Debug\netcoreapp3.1\LetterSoup.dll
+C:\Users\mv91493\source\repos\LetterSoup\LetterSoup\obj\Debug\netcoreapp3.1\LetterSoup.pdb
+C:\Users\mv91493\source\repos\LetterSoup\LetterSoup\obj\Debug\netcoreapp3.1\LetterSoup.genruntimeconfig.cache

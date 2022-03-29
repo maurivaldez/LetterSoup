@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterSoup", "LetterSoup\LetterSoup.csproj", "{04F6BB51-98B3-4C2C-BB89-3B9E8A173A9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F6BB51-98B3-4C2C-BB89-3B9E8A173A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F6BB51-98B3-4C2C-BB89-3B9E8A173A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F6BB51-98B3-4C2C-BB89-3B9E8A173A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F6BB51-98B3-4C2C-BB89-3B9E8A173A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C9EF988-2935-4BAB-B537-97DE1212E991}
+	EndGlobalSection
+EndGlobal
